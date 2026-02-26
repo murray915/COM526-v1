@@ -3,7 +3,7 @@ import utils
 import time
 
 
-for j in range(100):
+for j in range(1):
 
     e = Environment("./floorplans/floorplan_002.txt")
 
